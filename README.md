@@ -1,6 +1,7 @@
 Sudoku
 
-This Java project was my computer science summative.
+This Java project was my computer science final project.
+This game was developed using the Dr. Java IDE.
 
 Features:
 - Three Difficulties
